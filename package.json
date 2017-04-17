@@ -1,0 +1,45 @@
+{
+  "name": "Brewlive",
+  "version": "1.0",
+  "description": "Simple NodeJS server and SQLite3 logger for the DS18B20 digital temperature sensor on the Raspberry Pi.",
+  "main": "server.js",
+  "scripts": {
+    "test": "vows ./test/*.js --spec",
+    "cover": "istanbul cover vows ./test/*.js --spec",
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "codeclimate": "cat ./coverage/lcov.info | codeclimate-test-reporter",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "###"
+  },
+  "keywords": [
+    "Raspberry",
+    "Pi",
+    "Temperature",
+    "Server",
+    "DS18B20",
+    "GPIO",
+    "Sensor"
+  ],
+  "author": "###",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "###"
+  },
+  "homepage": "###",
+  "dependencies": {
+    "sqlite3": ">=2.1.19",
+    "node-static": ">=0.7.3",
+    "async": "*",
+    "csv-stringify": "*",
+    "moment": "*"
+  },
+  "devDependencies": {
+    "coveralls": "*",
+    "vows": "*",
+    "istanbul": "*",
+    "codeclimate-test-reporter": "*"
+  }
+}

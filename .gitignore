@@ -1,0 +1,11 @@
+node_modules
+*.swp
+*.db
+*.log
+*.txt
+.project
+.settings
+*.db-journal
+*.tar.gz
+.coveralls.yml
+coverage
