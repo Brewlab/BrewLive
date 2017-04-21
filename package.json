@@ -1,6 +1,6 @@
 {
   "name": "Brewlive",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Simple NodeJS server and SQLite3 logger for the DS18B20 digital temperature sensor on the Raspberry Pi.",
   "main": "server.js",
   "scripts": {
