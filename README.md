@@ -65,17 +65,18 @@ http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/temperature/
 Screenshots/Images Oncomming
 ------------------
 <p>
-<a target="_blank" href="http://imageshack.com/f/pmSooLYRj"><img src="http://imagizer.imageshack.us/v2/150x100q90/922/SooLYR.jpg" border="0" alt="index page" style="width:400px;height:300px;></a>
-</p>
-
-
-<p>
-<a target="_blank" href="http://imageshack.com/f/pnN6pogsp"><img src="http://imagizer.imageshack.us/v2/150x100q90/923/N6pogs.png" border="0" alt="Temperature plot every 15 sec" style="width:400px;height:300px;></a>
-</p>
+<a target="_blank"><img src="http://imagizer.imageshack.us/v2/150x100q90/922/SooLYR.jpg" border="1" alt="index page" style="width:400px;height:300px;></a>
+Simple menu page.
+ </p><br>
 
 <p>
-<a target="_blank" href="http://imageshack.com/f/po5rim0Zp"><img src="http://imagizer.imageshack.us/v2/150x100q90/924/5rim0Z.png" border="0" alt="Temperature log constantly updated and downloadable .CSV file available ! " style="width:400px;height:300px;>
-</a>
-</p>
+<a target="_blank"><img src="http://imagizer.imageshack.us/v2/150x100q90/923/N6pogs.png" border="1" alt="Temperature plot every 15 sec" style="width:400px;height:300px;></a>
+Temperature plot updated every 15 sec by default.
+</p><br>
+
+<p>
+<a target="_blank"><img src="http://imagizer.imageshack.us/v2/150x100q90/924/5rim0Z.png" border="1" alt="Temperature log constantly updated and downloadable .CSV file available ! " style="width:400px;height:300px;>
+</a>Temperature log constantly updated and downloadable .CSV file available !  
+</p><br>
 
 
