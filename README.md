@@ -1,6 +1,8 @@
 
 [![Build Status](https://travis-ci.org/Brewlab/BrewLive.svg?branch=master)](https://travis-ci.org/Brewlab/Brewlive)
 
+[![Coverage Status](https://coveralls.io/repos/github/Brewlab/BrewLive/badge.svg?branch=master)](https://coveralls.io/github/Brewlab/BrewLive?branch=master)
+
 
 
 Brewlive Temperature logger for Brewers 
