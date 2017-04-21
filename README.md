@@ -1,3 +1,4 @@
+https://travis-ci.org/Brewlab/BrewLive.svg?branch=master 
 
 Brewlive Temperature logger for Brewers 
 =============
