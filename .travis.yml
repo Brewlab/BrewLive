@@ -1,6 +1,12 @@
-language: node_js
-node_js: "node"
-after_success:
-- npm run cover
-- npm run coveralls
-- npm run codeclimate
+{
+  "language": "node_js",
+  "node_js": "node",
+  "after_success": [
+    "npm run cover",
+    "npm run coveralls",
+    "npm run codeclimate"
+  ],
+  "group": "stable",
+  "dist": "precise",
+  "os": "linux"
+}
